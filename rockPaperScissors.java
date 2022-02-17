@@ -1,5 +1,4 @@
-/*  # TASK 2
-	# Compulsory Task 1
+/* 
 	# rockPaperScissors.java
 	# written by Tintswalo Anicky Makhubele
 	# date:  11 April 2020
